@@ -1,8 +1,8 @@
-![cover](https://cotenfrontend.pl/img/cover.png)
 
-# WTF Webpack Starter Kit 
 
-Simple toolkit for your static websites development.
+# Strona domowa Tomasz 
+
+Strona zrobiona w ramach nauki WTFa. W sumie nieżły baładgan. 
 
 ## How to use it?
 
